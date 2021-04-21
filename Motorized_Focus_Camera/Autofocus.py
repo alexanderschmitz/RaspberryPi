@@ -2,6 +2,7 @@ import cv2 #sudo apt-get install python-opencv
 import numpy as py
 import os
 import time
+import django
 
 try:
 	import picamera
